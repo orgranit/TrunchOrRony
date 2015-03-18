@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrunchDemo</string>
+    <string name="food_prompt">Cuisine or Restaurant </string>
+    <string name="main_question">What are you eating today?</string>
+    <string name="mGlass">\uD83D\uDD0D</string>
+    <string name="pick_resturent">Choose a restaurant</string>
+    <string name="wait_for_trunch">Waiting for your TRUNCH...</string>
+</resources>
